@@ -1,0 +1,8 @@
+why PyTorch or TensorFlow is used in uilding ML or deep learning models
+why Experience with distributed computing engines (e.g., Spark/PySpark, Dask, Ray) for large-scale data processing. 
+what is MLflow, TensorBoard
+what is graph databases and graph ML (Neo4j, Amazon Neptune) or libraries like PyTorch Geometric. 
+what is threat detection, anomaly detection/fraud analytics
+what is Familiarity with cloud platforms (AWS, Azure, GCP) and containerization/orchestration (Docker, Kubernetes). 
+what is meaning of this DNA and cDNA or France e.g., prediction of store potential, store segmentation, assortment optimization, asset deployment, audience profiling, etc.
+what is meaning of Omnichannel analytics, ANCOVA analysis
